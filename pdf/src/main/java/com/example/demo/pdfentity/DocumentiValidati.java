@@ -15,7 +15,7 @@ import jakarta.persistence.TemporalType;
 
 /**
  * The persistent class for the documenti_validati database table.
- * 
+ *
  */
 @Entity
 @Table(name="documenti_validati")

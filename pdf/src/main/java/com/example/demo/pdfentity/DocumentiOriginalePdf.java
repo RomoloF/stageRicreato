@@ -15,7 +15,7 @@ import jakarta.persistence.TemporalType;
 
 /**
  * The persistent class for the documenti_originale_pdf database table.
- * 
+ *
  */
 @Entity
 @Table(name="documenti_originale_pdf")
